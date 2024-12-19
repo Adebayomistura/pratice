@@ -1,0 +1,29 @@
+*{
+
+}
+<style>
+        body{
+            color: red;
+        }
+        .green{
+            color: green;
+        }
+        #purple{
+            color: purple;
+        }
+        p{
+            font-size: 20px;
+        }
+
+         h1{
+            border: 1px solid black;
+         }
+         padding{
+            10px
+         }
+        *{
+            margin: 0;
+            padding: 2%;
+            box-sizing: border-box;
+        }
+    

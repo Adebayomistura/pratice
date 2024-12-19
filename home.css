@@ -1,0 +1,41 @@
+*{
+   margin: 10; 
+   padding: 10;
+   box-sizing: border-box;
+   font-family: Helvetica, sans-serif
+}
+/*nav-bar*/
+header{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+
+   padding: 0 128px;
+   height: 100px;
+   /*background purple*/
+}
+
+.rightnav{
+   display: flex;
+   gap: 32px;
+   align-items: center;
+}
+
+.links,a{
+   display: flex;
+   list-style: none;
+   gap: 24px;
+   text-decoration: none;
+   color: black;
+}
+.button nav{
+   background-color: transparent;
+   border-radius: 0px;
+}
+section{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 20px;
+   
+}

@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../mistura"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "mistura"
+	}
+}
